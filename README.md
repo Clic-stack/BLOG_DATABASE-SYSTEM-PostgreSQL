@@ -132,7 +132,7 @@ on likes.post_id = posts.id;
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Clic-stack/BLOG_DATABSE.git
+git clone https://github.com/Clic-stack/BLOG_DATABASE.git
 ```
 
 2. Create a database in your PostgreSQL client:
@@ -285,7 +285,7 @@ on likes.post_id = posts.id;
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/Clic-stack/BLOG_DATABSE.git
+git clone https://github.com/Clic-stack/BLOG_DATABASE.git
 ```
 
 2. Crea una base de datos en tu cliente de PostgreSQL:
