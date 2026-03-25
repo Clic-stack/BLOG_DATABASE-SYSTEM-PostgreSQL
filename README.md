@@ -157,6 +157,9 @@ Developed by Clio Salgado with the goal of creating a robust "blog_db" system fo
 ## 📊 Sistema de Base de Datos para un Blog con PostgreSQL
 
 Este proyecto consiste en el diseño e implementación de una base de datos relacional denominada `blog_db`, diseñada para gestionar un sistema de blogs. Incluye la arquitectura de usuarios, publicaciones y un sistema de interacciones mediante "likes".
+
+<img width="1470" height="390" alt="image" src="https://github.com/user-attachments/assets/3a91a397-2c43-49b4-84c1-2bbff46be09a" />
+
 ---
 
 ## 🌐 Despliegue
@@ -169,6 +172,8 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
 ## 🏗️ Arquitectura de Datos
 
 El diseño se basa en un modelo relacional que garantiza la integridad referencial mediante el uso de llaves primarias (`PK`) y llaves foráneas (`FK`).
+
+<img width="819" height="611" alt="image" src="https://github.com/user-attachments/assets/2645d001-5987-4516-8ee9-239a3bd28756" />
 
 ---
 
